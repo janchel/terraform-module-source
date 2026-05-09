@@ -44,4 +44,4 @@ terraform.rc
 # planout
 CHANGELOG.md
 QUICKSTART.md
-README.md
+README-local.md
